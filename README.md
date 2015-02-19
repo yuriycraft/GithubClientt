@@ -12,4 +12,4 @@
 
 Скриншоты
 
-![solarized palette](https://github.com/yuriycraft/GithubClientt/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.44.23.png)
+![solarized palette](https://github.com/yuriycraft/GithubClientt/tree/master/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.44.23.png)
