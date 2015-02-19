@@ -13,4 +13,4 @@ iOS test app
 
 Скриншоты
 
-![Alt text](https://github.com/yuriycraft/GithubClientt/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.44.23.png?raw=true)
+![Alt text](https://github.com/yuriycraft/GithubClientt/blob/master/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.44.23.png?raw=true)
