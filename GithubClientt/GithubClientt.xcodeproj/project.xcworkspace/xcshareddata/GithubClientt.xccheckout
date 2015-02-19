@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EDF6BF9F-C665-495F-9427-1AE98A6C3755</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GithubClientt</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>985C8CB308C4FE21D160A3C8177BDD9F2C23BFEE</key>
+		<string>https://github.com/yuriycraft/GithubClientt</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Documents/GithubClientt/GithubClientt.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>985C8CB308C4FE21D160A3C8177BDD9F2C23BFEE</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yuriycraft/GithubClientt</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>985C8CB308C4FE21D160A3C8177BDD9F2C23BFEE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>985C8CB308C4FE21D160A3C8177BDD9F2C23BFEE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GithubClientt</string>
+		</dict>
+	</array>
+</dict>
+</plist>
