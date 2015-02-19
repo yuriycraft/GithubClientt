@@ -1,5 +1,4 @@
 # GithubClientt
-iOS test app
 Мобильный клиент для GitHub 
 
 В качестве тестового задания надо написать несложный клиент для сервиса GitHub с использованием REST API (http://developer.github.com/v3/)
@@ -13,4 +12,4 @@ iOS test app
 
 Скриншоты
 
-[![mutt light](https://github.com/yuriycraft/GithubClientt/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.44.23.png)]
+![solarized palette](https://github.com/yuriycraft/GithubClientt/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.44.23.png)
