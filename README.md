@@ -13,8 +13,6 @@ iOS test app
 
 Скриншоты
 
-![Alt text](https://github.com/yuriycraft/GithubClientt/blob/master/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.44.23.png?raw=true)
-![Alt text](https://github.com/yuriycraft/GithubClientt/blob/master/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.45.22.png?raw=true)
-![Alt text](https://github.com/yuriycraft/GithubClientt/blob/master/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.50.43.png?raw=true)
+![Alt text](https://github.com/yuriycraft/GithubClientt/blob/master/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.44.23.png?raw=true)![Alt text](https://github.com/yuriycraft/GithubClientt/blob/master/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.45.22.png?raw=true)![Alt text](https://github.com/yuriycraft/GithubClientt/blob/master/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.50.43.png?raw=true)
 ![Alt text](https://github.com/yuriycraft/GithubClientt/blob/master/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.41.03.png?raw=true)
 ![Alt text](https://github.com/yuriycraft/GithubClientt/blob/master/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.56.28.png?raw=true)
