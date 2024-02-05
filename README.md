@@ -13,6 +13,6 @@ iOS test app
 
 Скриншоты
 
-![Alt text](https://github.com/yuriycraft/GithubClientt/blob/master/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.44.23.png?raw=true)![Alt text](https://github.com/yuriycraft/GithubClientt/blob/master/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.45.22.png?raw=true)![Alt text](https://github.com/yuriycraft/GithubClientt/blob/master/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.50.43.png?raw=true)
-![Alt text](https://github.com/yuriycraft/GithubClientt/blob/master/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.41.03.png?raw=true)
+![Alt text](https://github.com/yuriycraft/GithubClientt/blob/cf058bc91c004610f4efa5d0502ae87235706deb/README.rtfd/iOS%20Simulator%20Screen%20Shot%2019%20%D1%84%D0%B5%D0%B2%D1%80.%202015%20%D0%B3.%2C%2015.44.23.png?raw=true)![Alt text](https://github.com/yuriycraft/GithubClientt/blob/cf058bc91c004610f4efa5d0502ae87235706deb/README.rtfd/iOS%20Simulator%20Screen%20Shot%2019%20%D1%84%D0%B5%D0%B2%D1%80.%202015%20%D0%B3.%2C%2015.45.22.png?raw=true)![Alt text](https://github.com/yuriycraft/GithubClientt/blob/cf058bc91c004610f4efa5d0502ae87235706deb/README.rtfd/iOS%20Simulator%20Screen%20Shot%2019%20%D1%84%D0%B5%D0%B2%D1%80.%202015%20%D0%B3.%2C%2015.50.43.png?raw=true)
+![Alt text](https://github.com/yuriycraft/GithubClientt/blob/cf058bc91c004610f4efa5d0502ae87235706deb/README.rtfd/iOS%20Simulator%20Screen%20Shot%2019%20%D1%84%D0%B5%D0%B2%D1%80.%202015%20%D0%B3.%2C%2015.41.03.png?raw=true)
 ![Alt text](https://github.com/yuriycraft/GithubClientt/blob/master/README.rtfd/iOS Simulator Screen Shot 19 февр. 2015 г., 15.56.28.png?raw=true)
